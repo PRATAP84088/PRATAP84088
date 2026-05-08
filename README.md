@@ -64,8 +64,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PRATAP84088&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRATAP84088&theme=tokyonight&hide_border=true" width="48%"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=PRATAP84088&theme=tokyonight&hide_border=true" width="48%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATAP84088&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
