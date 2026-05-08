@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+💙+Building+things+with+.NET;Learning+ASP.NET+Core+%7C+MVC+%7C+C%23;Open+to+Software+Developer+Opportunities+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+💙+Building+things+with+.NET;Learning+ASP.NET+Core+%7C+MVC+%7C+C%23;Open+to+.NET+Developer+Opportunities+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 🌱 Exploring **Entity Framework Core**, **Web APIs**, and **Clean Code principles**
 - 💬 Ask me about **C# basics, .NET fundamentals, and OOP concepts**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pratap-singh-b953801ab/)
-- 🎯 Actively looking for **Software Developer role**
+- 🎯 Actively looking for my **first full-time .NET Developer role**
 - 💡 Fun fact: I believe in *"Learn it. Build it. Break it. Fix it. Repeat."*
 
 ---
@@ -26,6 +26,7 @@
 
 #### 👨‍💻 Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🖥️ Frameworks & Platforms
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -35,19 +36,15 @@
 #### 🌐 Web Basics
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20120221235433)
-
 
 #### 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 #### 🛠️ Tools
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png))
-
-
 
 ---
 
